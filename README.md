@@ -22,7 +22,7 @@ O **Barber Elite** é um site institucional para uma barbearia que apresenta:
 - Componentização em React  
 - Estilização com Styled Components  
 - Layout totalmente responsivo  
-- Código organizado e limpo  
+- Código organizado e clean 
 - Estrutura pensada para expansão futura com backend
 
 Este projeto foi feito para mostrar uma presença online elegante para negócios como barbearias, com facilidade para personalização e manutenção. :contentReference[oaicite:3]{index=3}
